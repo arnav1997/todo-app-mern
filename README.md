@@ -17,9 +17,9 @@ This project is a simple Todo application built with MERN stack (MongoDB, Expres
 
 ### Backend Setup
 
-1. Navigate to the `todo-mern-backend/` directory:
+1. Navigate to the `todo-backend/` directory:
    ```bash
-   cd todo-mern-backend/
+   cd todo-backend/
    ```
 
 2. Install dependencies:
@@ -28,7 +28,7 @@ This project is a simple Todo application built with MERN stack (MongoDB, Expres
    ```
 
 3. Set up environment variables:
-   - Create a `.env` file in the `todo-mern-backend/` directory with your MongoDB connection string. Example:
+   - Create a `.env` file in the `todo-backend/` directory with your MongoDB connection string. Example:
      ```
      MONGODB_URI=mongodb://localhost:27017/todo-app
      PORT=5000
