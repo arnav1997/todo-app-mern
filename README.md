@@ -17,7 +17,7 @@ This project is a simple Todo application built with MERN stack (MongoDB, Expres
 
 ### Backend Setup
 
-1. Navigate to the `backend/` directory:
+1. Navigate to the `todo-mern-backend/` directory:
    ```bash
    cd todo-mern-backend/
    ```
